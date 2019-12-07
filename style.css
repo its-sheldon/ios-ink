@@ -29,10 +29,10 @@ html, body {
 			max-width: 550px;
 			width: 100%;
 		}
-		
+
 		.text {
 			padding: 0px 0 0 22px;
-			
+
 			p {
 				font-family: didot;
 				font-size: 16px;
@@ -46,4 +46,3 @@ html, body {
 		}
 	}
 }
-
