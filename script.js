@@ -2,7 +2,7 @@
 
 Feel free to use this in your projects!  It'd be cool if you'd tell me though, to see what you do with it!
 
-The font, color, size, and everything will be carried over accurately. 
+The font, color, size, and everything will be carried over accurately.
 
 This is an attempt to re-create the invisible ink texts for iOS, and it turns out that it might work on websites in general...  Swipe to see current password?  Security Question answers?  Who knows.
 
@@ -14,35 +14,6 @@ Here's the markup:
 So far there is no support for line breaks.
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 (function(){
 	function wrapWords(el) {
 		'use strict';
