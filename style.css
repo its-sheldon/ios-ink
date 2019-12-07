@@ -1,48 +1,48 @@
 html, body {
-	background: rgb(34, 34, 34);
-	height: 100%;
+  background: rgb(34, 34, 34);
+  height: 100%;
+}
 
-	.flex {
-		width: 100%;
-		color: rgb(255, 255, 255);
-		height: 100%;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		transition: all 0.2s;
-		height: 100%;
-	}
+.flex {
+  width: 100%;
+  color: rgb(255, 255, 255);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  height: 100%;
+}
 
-	.content {
-		width: 500px;
-		margin: auto auto;
+.content {
+  width: 500px;
+  margin: auto auto;
+}
 
-		h2 {
-			padding-top: 0%;
-			padding-left: 19px;
-			margin-bottom: 30px;
-			font-weight: bold;
-			font-family: didot;
-			font-size: 75px;
-			letter-spacing: .2px;
-			line-height: 75px;
-			max-width: 550px;
-			width: 100%;
-		}
+h2 {
+  padding-top: 0%;
+  padding-left: 19px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-family: didot;
+  font-size: 75px;
+  letter-spacing: .2px;
+  line-height: 75px;
+  max-width: 550px;
+  width: 100%;
+}
 
-		.text {
-			padding: 0px 0 0 22px;
+.text {
+  padding: 0px 0 0 22px;
+}
 
-			p {
-				font-family: didot;
-				font-size: 16px;
-				line-height: 32px;
-				max-width: 463px;
-				width: 100%;
-				letter-spacing: 1.1px;
-				padding: 0px !important;
-				margin-bottom: 20px;
-			}
-		}
-	}
+p {
+  font-family: didot;
+  font-size: 16px;
+  line-height: 32px;
+  max-width: 463px;
+  width: 100%;
+  letter-spacing: 1.1px;
+  padding: 0px !important;
+  margin-bottom: 20px;
 }
