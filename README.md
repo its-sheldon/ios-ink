@@ -2,4 +2,4 @@
 Invisible Ink was a simple library that will take specified text and "ink" it out, making it unreadable until hovered upon.
 
 
-[Check it!](https://zroxxah.github.io/ios-ink/)
+[Check it!](https://its-sheldon.github.io/ios-ink/)
